@@ -1,0 +1,30 @@
+{
+ "name": "JB Furniture Price Book",
+ "short_name": "Price Book",
+ "description": "JB Furniture Arts staff price book \u2013 cost, cash and finance prices for every supplier item.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#f3f1ec",
+ "theme_color": "#1b2430",
+ "lang": "en-GB",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
